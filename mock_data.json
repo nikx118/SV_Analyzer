@@ -1,0 +1,157 @@
+[
+  {
+    "id": "mock_001",
+    "agent_name": "Priya Sharma",
+    "lead_name": "Rajesh & Meena Kapoor",
+    "timestamp": "2026-06-02T10:30:00",
+    "transcript": "Agent: Good morning Mr. and Mrs. Kapoor! Welcome to Sunrise Residences. I'm so glad you could make it today. How was the drive in from Koramangala? Customer: The traffic was terrible actually, almost 45 minutes. Agent: Oh I completely understand, the traffic in Bangalore can be brutal. That's actually one of the reasons our residents love this location — the upcoming metro station is just 500 metres away. Your daily commute is going to transform once it opens. Customer: Oh really? When does the metro come? Agent: The Purple Line Phase 2 is expected to be operational by Q1 2027, so right when you'd have moved in. Now let me show you the rooftop — it has an infinity pool with a view you won't believe. Customer: The view is stunning. But honestly, ₹2.8 crore is quite steep for us. We've been looking at Prestige Lakeside too and they're offering better payment plans. Agent: I completely hear you on the price point. Let me share something — Prestige Lakeside is priced similarly but doesn't include the complimentary service apartment that comes with every unit here. That's a ₹45 lakh asset you're getting at no extra cost. Plus the RERA registration gives you full legal protection. Customer: That service apartment thing sounds interesting. Can we think about it? Agent: Absolutely, take your time. And the possession is Q4 2026, which means you're looking at a short wait. I'll send you the payment plan details today.",
+    "scores": {
+      "tonality_pitch": 9,
+      "product_information": 8,
+      "product_knowledge": 8,
+      "objection_handling": 9,
+      "rapport_building": 9
+    },
+    "overall_score": 8.6,
+    "agent_feedback": "Excellent rapport and objection handling — next time also mention the smart home automation to reinforce the premium value proposition.",
+    "customer_objections": [
+      "Price at ₹2.8 crore feels steep compared to competitors",
+      "Prestige Lakeside offering better payment flexibility",
+      "Concerned about traffic and commute to workplace"
+    ],
+    "customer_positives": [
+      "Loved the rooftop infinity pool and city views",
+      "Metro connectivity is a big plus",
+      "Interested in the complimentary service apartment"
+    ]
+  },
+  {
+    "id": "mock_002",
+    "agent_name": "Arjun Mehta",
+    "lead_name": "Siddharth Rao",
+    "timestamp": "2026-06-03T14:00:00",
+    "transcript": "Agent: Hello sir, welcome. Let me show you the flat. So this is the living room, 2800 square feet, 4 BHK. Customer: Looks nice. What's the price? Agent: So it starts from 2.5 crore. Customer: And possession? Agent: Q4 2026. Customer: That's far. What about the amenities? Agent: We have a pool on the rooftop. And garden. Customer: What kind of garden? Agent: 3 acres, landscaped. Customer: Is it RERA registered? Agent: Yes sir, it is. Customer: My concern is honestly the price. Brigade Orchards has a similar offering at 2.2 crore. Agent: Sir, this is a premium project. Customer: But why is it better than Brigade? Agent: The quality is different here. Customer: Can you be more specific? Agent: The finishing is good. Sir, shall I send you the brochure? Customer: Sure.",
+    "scores": {
+      "tonality_pitch": 4,
+      "product_information": 3,
+      "product_knowledge": 4,
+      "objection_handling": 2,
+      "rapport_building": 2
+    },
+    "overall_score": 3.0,
+    "agent_feedback": "You need to proactively present the USPs instead of waiting for the customer to ask — when the Brigade comparison came up, lead with the complimentary service apartment and metro proximity as hard differentiators.",
+    "customer_objections": [
+      "Price is not justified — Brigade Orchards offers similar at ₹2.2 crore",
+      "Possession date Q4 2026 feels too far",
+      "Agent could not clearly explain why the project is better than competitors"
+    ],
+    "customer_positives": [
+      "RERA registration provides confidence",
+      "Liked the 4 BHK layout"
+    ]
+  },
+  {
+    "id": "mock_003",
+    "agent_name": "Sneha Kulkarni",
+    "lead_name": "Anand & Deepa Nair",
+    "timestamp": "2026-06-04T11:00:00",
+    "transcript": "Agent: Mr. and Mrs. Nair, it's so wonderful to have you here. I remember you mentioned you have a daughter who just started at an IT company in Whitefield — how's she settling in? Customer: She's doing well, thank you for asking! Agent: That's great. So imagine she literally walks to the metro every morning from this address — 500 metres to the station. Plus when you visit her, you have the full service apartment that comes with each unit. Customer: Wait, there's a separate service apartment? Agent: Yes! Every unit at Sunrise comes with a complimentary 2 BHK service apartment — it's a ₹45 lakh asset at no extra cost. Customer: That's incredible, we didn't know that. Agent: Most people don't until they visit! And the German modular kitchen with Hettich fittings — Mrs. Nair, you'll love the layout. Customer: Yes I do love cooking. The kitchen is very well designed. But our concern is the possession — Q4 2026. We need a place by March 2026 for our daughter. Agent: I completely understand the urgency. While we can't advance the possession date, I can check if there are any ready-to-move units from early buyers who've changed plans — that happens occasionally. I'll make a specific enquiry for you this week. Customer: That would be very helpful. We love the apartment.",
+    "scores": {
+      "tonality_pitch": 9,
+      "product_information": 9,
+      "product_knowledge": 8,
+      "objection_handling": 8,
+      "rapport_building": 10
+    },
+    "overall_score": 8.8,
+    "agent_feedback": "Outstanding rapport — you created a deeply personal connection; ensure you always follow up on the re-sale inventory enquiry within 24 hours to keep momentum.",
+    "customer_objections": [
+      "Possession date Q4 2026 is too late — need apartment by March 2026",
+      "No immediate ready-to-move units available"
+    ],
+    "customer_positives": [
+      "Loved the complimentary 2 BHK service apartment benefit",
+      "Excellent kitchen design — German modular fittings appreciated",
+      "Metro connectivity is a major plus for daughter's commute",
+      "Overall apartment layout very well received"
+    ]
+  },
+  {
+    "id": "mock_004",
+    "agent_name": "Vikram Joshi",
+    "lead_name": "Kavya Reddy (NRI Investor)",
+    "timestamp": "2026-06-05T16:30:00",
+    "transcript": "Agent: Ms. Reddy, welcome back to Bangalore! How's Dubai treating you? Customer: It's good, but I'm looking at investments back home. I want a solid return. Agent: Absolutely — Whitefield is one of the highest-appreciating micro-markets in Bangalore right now. Properties here have seen 18-22% appreciation over the last 3 years. Customer: What's the rental yield I can expect? Agent: The 4 BHK units here are fetching between ₹65,000 to ₹85,000 per month in rental. At ₹2.5 crore entry, that's about a 3.5-4% gross rental yield, which is healthy for Bangalore's premium segment. Customer: The service apartment — can I rent that out separately? Agent: Yes absolutely, and that's where the math gets interesting. You're essentially getting two rentable assets. The service apartment alone can yield ₹30,000-₹35,000 per month. Customer: What about capital appreciation potential? Agent: With the metro coming 500 metres away, we project at least 25-30% appreciation by possession date. Customer: My concern is the price — 2.8 crore is a lot to block for 18 months. Agent: For NRI purchases we have a special structured payment plan — 20% now, 30% at construction milestone, 50% at possession. That way your capital isn't fully blocked. We also have an NRI-specific property management service. Customer: That's very helpful. I'm seriously considering this.",
+    "scores": {
+      "tonality_pitch": 8,
+      "product_information": 9,
+      "product_knowledge": 9,
+      "objection_handling": 8,
+      "rapport_building": 7
+    },
+    "overall_score": 8.2,
+    "agent_feedback": "Very strong investment pitch with solid data — add ROI comparison with fixed deposits and mutual funds to make the investment case even more compelling for NRI clients.",
+    "customer_objections": [
+      "₹2.8 crore capital blocked for 18 months is a concern",
+      "Wants higher rental yield certainty before committing",
+      "Skeptical about appreciation projections without data"
+    ],
+    "customer_positives": [
+      "Dual rental income from main apartment + service apartment is very attractive",
+      "NRI payment plan with milestone-based structure addresses capital blocking concern",
+      "Metro proximity projects strong capital appreciation"
+    ]
+  },
+  {
+    "id": "mock_005",
+    "agent_name": "Arjun Mehta",
+    "lead_name": "Dr. Suresh Patel",
+    "timestamp": "2026-06-06T12:00:00",
+    "transcript": "Agent: Good afternoon Dr. Patel, please come in. So this is our 4 BHK show flat. Customer: I can see it's well finished. What's the carpet area? Agent: Um, it's... 2800 square feet. Customer: That's super built-up or carpet? Agent: I think it's super built-up. Customer: So what's the carpet area? Agent: I'd have to check with the office on that sir. Customer: You don't know? That's a basic question. Agent: Sorry sir, I'll get that confirmed. Customer: Never mind. What's the loading factor? Agent: The loading factor is... I'll check that too. Customer: This is concerning. What amenities does the project have? Agent: Pool, garden, gym. Customer: Is there a clubhouse? Agent: I believe so, yes. Customer: Is there a kids' play area? Agent: I think there is. I'll need to confirm. Customer: Your brochure mentions 48 amenities. Can you name 10? Agent: So we have the pool, garden, gym... um... concierge... Customer: What about the smart home automation? Agent: Oh yes that too. Customer: I'm not confident you know this project well enough for me to make a ₹3 crore decision. I'd like to speak with a senior manager.",
+    "scores": {
+      "tonality_pitch": 5,
+      "product_information": 2,
+      "product_knowledge": 1,
+      "objection_handling": 3,
+      "rapport_building": 4
+    },
+    "overall_score": 3.0,
+    "agent_feedback": "You must memorize the full specification sheet before any site visit — the carpet area, loading factor, and all 48 amenities must be at your fingertips; a customer spending ₹3 crore needs absolute confidence in your knowledge.",
+    "customer_objections": [
+      "Agent did not know basic carpet area and loading factor specifications",
+      "Could not name project amenities despite brochure listing 48 of them",
+      "Lost confidence in agent's ability to guide a ₹3 crore decision",
+      "Requested escalation to senior manager"
+    ],
+    "customer_positives": [
+      "Appreciated the quality of the show flat finishing"
+    ]
+  },
+  {
+    "id": "mock_006",
+    "agent_name": "Priya Sharma",
+    "lead_name": "Rohan & Aditi Gupta",
+    "timestamp": "2026-06-08T10:00:00",
+    "transcript": "Agent: Rohan, Aditi — so lovely to meet you both! You mentioned you're expecting your first child — congratulations! Customer F: Thank you! We're due in October. Agent: Then this timing is actually perfect — your little one will be taking their first steps just as you're settling into the new home. Let me show you the garden — 3 acres, with a dedicated children's play zone, walking trails, and a yoga lawn. Customer M: The garden is impressive. We do want space for the baby to grow up. Agent: Exactly, and the school zone around Whitefield is excellent — Inventure Academy, Greenwood High are both within 5 minutes. Customer F: What about safety? Agent: 24/7 CCTV, biometric access to all common areas, and a dedicated security team. Smart home automation also includes a video door phone. Customer M: The price though — ₹2.6 crore is our absolute upper limit. Agent: I understand you have a firm budget. Let me check what the ground floor units are priced at — they come in around ₹2.52 crore and have direct garden access, which would be perfect for a toddler. Customer F: Oh that sounds ideal! Agent: And with our 10:80:10 payment plan — 10% now to block, 80% via loan at possession, 10% on handover — your EMI only kicks in after Q4 2026, giving you time to settle your current finances. Customer M: That actually works for us. We're very interested.",
+    "scores": {
+      "tonality_pitch": 9,
+      "product_information": 8,
+      "product_knowledge": 9,
+      "objection_handling": 9,
+      "rapport_building": 10
+    },
+    "overall_score": 9.0,
+    "agent_feedback": "Exceptional session — you brilliantly connected the product features to the couple's personal life stage (new baby); this is a closing conversation, so send the booking form with the ground floor unit details within 2 hours.",
+    "customer_objections": [
+      "Budget ceiling at ₹2.6 crore — standard units exceed this",
+      "Concerns about safety and security for a young family"
+    ],
+    "customer_positives": [
+      "3-acre garden with children's play zone is perfect for growing family",
+      "Proximity to top schools — Inventure Academy and Greenwood High",
+      "Smart home automation and biometric security addresses safety concerns",
+      "Ground floor unit with garden access is ideal for toddler",
+      "10:80:10 deferred payment plan works within their financial timeline"
+    ]
+  }
+]
