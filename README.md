@@ -66,7 +66,6 @@ utils.py          # Gemini helpers, JSON parsing, data persistence & aggregation
 mock_data.json    # Seeded mock site-visit analyses
 data.json         # Live recorded analyses (generated at runtime)
 PRD.md            # Product requirements document
-deck_assets/      # Sales presentation assets (mockup screens + .pptx deck)
 ```
 
 ## Pilot Property
